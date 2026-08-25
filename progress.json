@@ -211,5 +211,14 @@
       "Wonderful! You have successfully synced the local tags with the remote tags!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787672382.008919,
+    "completed_at": 1787672383.49838,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
