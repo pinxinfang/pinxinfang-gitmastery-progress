@@ -445,5 +445,14 @@
       "Great work with renaming the branches on both your local and remote repositories!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "create-pr-from-main",
+    "started_at": 1787889588.862659,
+    "completed_at": 1787889592.213244,
+    "comments": [
+      "No module named 'exercise_utils.exercise_config'"
+    ],
+    "status": "Error"
   }
 ]
