@@ -418,5 +418,14 @@
       "Congratulations on cracking the case! You found the hacker!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "nothing-to-hide",
+    "started_at": 1787889536.601489,
+    "completed_at": 1787889538.132404,
+    "comments": [
+      "Great work in identifying how .gitignore works!"
+    ],
+    "status": "Completed"
   }
 ]
